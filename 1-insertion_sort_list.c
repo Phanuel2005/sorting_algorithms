@@ -3,6 +3,7 @@
 /**
  * len_list - returns the length of a linked list
  * @h: pointer to the list
+ * In collaboration with Dev.Phanuel
  *
  * Return: length of list
  */
