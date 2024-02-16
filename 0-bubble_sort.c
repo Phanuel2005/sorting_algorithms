@@ -5,6 +5,7 @@
  * bubble_sort - sorts an array in ascending order
  * @array: array of ints to sort
  * @size: size of the array
+ * By Dev.Phanuel
  */
 void bubble_sort(int *array, size_t size)
 {
